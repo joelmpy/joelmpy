@@ -4,7 +4,7 @@
 
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=joelmpy&label=Profile%20views&color=0e75b6&style=flat" alt="joelmpy" /> </p>
 
-- 🌱 J'apprends actuellement **Formation full-stack**
+- 🌱 J'apprends actuellement **React**
 
 - 📫 Comment me joindre **mampouyajooel@gmail.com**
 
