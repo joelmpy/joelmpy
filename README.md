@@ -1,9 +1,7 @@
-<h1 align="center">Salut 👋, je suis Mampouya Joel</h1>
+<h1 align="center">Bonjour Je suis Joel, développeur web full-stack </h1>
 <h3 align="center">Je suis passionnée par le frondend</h3>
 
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=joelmpy&label=Profile%20views&color=0e75b6&style=flat" alt="joelmpy" /> </p>
-
-<p align="left"> <a href="https : //github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joelmpy" alt="joelmpy" /></ a> </p>
 
 - 🌱 J'apprends actuellement **React**
 
@@ -11,27 +9,12 @@
 
 - ⚡ Fun fact **Je pense que je suis très drôle**
 
+- 🔭 Mon Github https://github.com/joelmpy
+
 <h3 align="left">Mon linkedin</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mampouya-joel/" target="blank"><img align="center" src="https : //raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in /mampouya-joel/" height="30" width="40" /></a>
 </p>
-
-
-### <div align="center">Bonjour Je suis Joel, développeur web full-stack </div>  
-  
-
-- 🔭 Mon Github https://github.com/joelmpy  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Je suis plutot cool   
-  
-
 <br/>  
 
 
