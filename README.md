@@ -1,5 +1,5 @@
-<h1 align="center">Bonjour Je suis Joel, développeur web full-stack </h1>
-<h3 align="center">Je suis passionnée par le frondend</h3>
+<h1 align="center">😀 Bonjour Je suis Joel, développeur web full-stack 😀</h1>
+
 
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=joelmpy&label=Profile%20views&color=0e75b6&style=flat" alt="joelmpy" /> </p>
 
