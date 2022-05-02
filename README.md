@@ -1,5 +1,3 @@
-### Hi there Joel 👋
-<img src = "https://c.tenor.com/woUG2yjjno4AAAAC/working-garfield.gif"/>
 
 <h1 align="center">Salut 👋, je suis Mampouya Joel</h1>
 <h3 align="center">Je suis passionnée par le frondend</h3>
