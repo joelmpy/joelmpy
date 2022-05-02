@@ -15,10 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mampouya-joel/" target="blank"><img align="center" src="https : //raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in /mampouya-joel/" height="30" width="40" /></a>
 </p>
-<div align="center">
-<img src="https://c.tenor.com/woUG2yjjno4AAAAC/working-garfield.gif" align="center" style="width: 100%" />
-</div>  
-  
+
 
 ### <div align="center">Bonjour Je suis Joel, développeur web full-stack </div>  
   
